@@ -1,0 +1,27 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.subplot(2,2,1)
+x = np.sin(180)
+print(x)
+x = np.sin(90)
+print(x)
+x = np.cos(180)
+print(x)
+x = np.tan(180)
+print(x)
+i = np.arange(0,3*np.pi,0.1)
+print(i)
+a = np.sin(i)
+print(a)
+plt.plot(i,a)
+
+plt.subplot(2,2,2)
+b = np.cos(i)
+print(b)
+plt.plot(i,b)
+plt.subplot(2,2,3)
+c = np.tan(i)
+print(c)
+plt.plot(i,c)
+plt.savefig('plt.png')

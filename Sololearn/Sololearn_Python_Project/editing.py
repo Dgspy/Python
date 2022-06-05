@@ -1,0 +1,6 @@
+x = ("this is some nice person")
+print(x.count("i"))
+print(x.lower())
+print(x.upper())
+print(x.replace("some nice","good"))
+print(len(x))
