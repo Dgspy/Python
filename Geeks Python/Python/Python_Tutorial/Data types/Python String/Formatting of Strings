@@ -1,0 +1,31 @@
+#python program for formatting of string
+#default order
+string="{} {} {} ".format("darkdevil","of","internet")
+print("print string in default order :-",string)
+
+#positional formatting
+string="{1} {2} {0}".format("darkdevil","of","internet")
+print("positional formatting::",string)
+
+#keyword formatimg
+string="{d} {o} {i}".format(d="darkdevil",o="of",i="internet")
+print('keyword formatimg::',string)
+
+#formatting of integer
+string="{0:b}".format(16)
+print("formatting of integer::",string)
+
+#formatting of floats
+string="{0:e}".format(79.20)
+print("formatting of floats::",string)
+#rounding of integer
+string="{0:.2f}".format(1/6)
+print("rounding of integer::",string)
+
+#string alignment
+string="|{:<10} | {:^10} |{:>10}|".format("darkdevil","of","internet")
+print("string allignment::",string)
+
+#to demostrate allign of spaces
+string="\n{0:^16}was founded in {1:<4}!".format("darkdevil","of","internet")
+print(string)
