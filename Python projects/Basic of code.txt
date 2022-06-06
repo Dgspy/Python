@@ -1,0 +1,27 @@
+The basic of coding
+What is code a= A code is a sets of rules in a specafic programming language which helps to talk with a machine 
+# In Day today life we use th eprogramming language to make a set of program = daisy Cars, bus, Internet , mobile, blutooth headsets , and microphones are use programms to performe  a specifice Tasks.
+
+@@ The coders makes the progrme in small small sequence that small sequence is called Algorithms
+The code is made up of more than the billion line of code 
+The world changing application is the World wide web we know the internet  that are the different things 
+www is the application is use on internet
+we use the internet to sending email , to watch videos, making phone calls , sending data .
+
+well Known Programing language is Html and css
+css = css is an additional coding language it shape the style of webpage
+ @@@@@Now Check Your Knowledge@@@@@@@@
+ ◼️What code is 
+ ◼ What code looks like
+ ◼ Where you can find it online
+ 
+ 
+ Why there are the more programmng language ?
+ why we want to communicate with  a machines in many different way ? = in differnet field we use diferent language like a engineers to make a design and structure and docter to make a surgery design 
+ 
+Most of the simple language and basic is binary language. 
+most low level compacted language is c and it is basic and hard to problem solving skill and make a expert in the different languages  o learn.
+Managng the data is very important ,many data in the world be reproduce :- To manage the data we used the powerful language called SQL it capture ,store, analysis , sort the data  :-
+example like a facebook , instagram and all social sites and banking sites are store the data in sql to manage it .
+in daily we play the game and application and search the content in information on the web it will made up of the Javascript .
+Javascript use to make the most of moving element in the laptop ,mobile and computer like most of device we use javascript to make it or 95 % of the webpages are the code of javascript .
